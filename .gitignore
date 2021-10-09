@@ -12,3 +12,9 @@ main.js
 
 # obsidian
 data.json
+
+# enviroment
+.env
+.env.local
+
+.DS_Store
